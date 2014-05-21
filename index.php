@@ -10,3 +10,4 @@ else
         include 'controleur/index.php';
 }
 include_once('vue/footer.php');
+test
